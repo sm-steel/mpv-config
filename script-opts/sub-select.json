@@ -1,0 +1,7 @@
+[
+	{
+		"alang": ["ja", "jpn", "jp", "jp%-jp", "en", "en%-us", "eng?", "und"],
+		"slang": ["en", "en%-us", "eng?", "ru", "rus", "ru%-ru", "und"],
+		"blacklist": ["signs", "Надписи"]
+	}
+]
