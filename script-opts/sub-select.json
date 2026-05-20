@@ -1,6 +1,12 @@
 [
 	{
-		"alang": ["ja", "jpn", "jp", "jp%-jp", "en", "en%-us", "eng?", "und"],
+		"alang": ["ru", "ru?", "rus", "ru%-ru", "ja", "jpn", "jp", "jp%-jp", "en", "en%-us", "eng?", "und"],
+		"slang": ["en", "en%-us", "eng?", "ru", "rus", "ru%-ru", "und", "no"],
+		"blacklist": ["signs", "Надписи"],
+		"condition": "audio and audio.external == true"
+	},
+	{
+		"alang": ["ru", "ru?", "rus", "ru%-ru", "ja", "jpn", "jp", "jp%-jp", "en", "en%-us", "eng?", "und"],
 		"slang": ["en", "en%-us", "eng?", "ru", "rus", "ru%-ru", "und"],
 		"blacklist": ["signs", "Надписи"]
 	}
