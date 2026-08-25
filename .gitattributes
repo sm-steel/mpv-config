@@ -1,0 +1,5 @@
+# Third-party GLSL shaders / mpv shader hooks — vendored, not authored here.
+# Excludes them from GitHub's language-detection stats (Linguist) and collapses
+# them in diffs/PR review.
+shaders/*.glsl linguist-vendored
+shaders/*.hook linguist-vendored
